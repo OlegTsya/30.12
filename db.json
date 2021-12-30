@@ -1,0 +1,22 @@
+ {
+ "products":{
+"smartphone":[
+    {
+    "name":"xiomi",
+    "model":"Xiaomi Mi 11",
+    "price":"586",
+    "link":"https://allo.ua/ru/products/mobile/xiaomi-mi-11i-8-256-cosmic-black.html?gclid=EAIaIQobChMIwaH7ivmL9QIVGdN3Ch17nwXGEAQYASABEgJS3_D_BwE",
+    "desc":"Хороший телефон Стоит 16тысяч ЗА ТАКИЕ ДЕНЬГИ можно и АПХОН Купить ",
+    "currency":"usd"
+},
+  {
+"name":"IPHONE",
+"model":"IPHONE 13pro MAX 1ТБ",
+"price":"2.200",
+"currency":"usd",
+"link":"https://rozetka.com.ua/apple_iphone_13_pro_max_1tb_sierra_blue/p318463612/?gclid=EAIaIQobChMIz4zTlPqL9QIV1uF3Ch1XdQQREAQYASABEgL0_vD_BwE",
+"desc":"Телефон ценой в почку 2к баксов ЗА ТЕЛЕФОН я вам почти с таким же функционалом куплю за 300ГРЫВЭЭЭЭН" 
+}
+]
+ }
+}
